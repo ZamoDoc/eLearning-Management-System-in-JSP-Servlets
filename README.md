@@ -20,56 +20,54 @@ The following are the major objective of this application:
 2.	The main objective is to build a secured, robust Learning Management System.
 3.	It maintains the record of students, faculty, courses, attendance, results, subjects, and so on.
  
-**Modules of Learning Management System**
+**Modules of Learning Management System**<br
+ <p>
 Admin Module- Admin can register & login/log out of the system. Admin can Add/Remove/Update any details related to the system. Admin will be allowed to add/remove any student and faculty member. Admin will be responsible for maintaining student & faculty member databases. Admin will be responsible for scheduling classes for students, scheduling timetables, and managing any events, programs, or other activities.
+</p>
+<p>
 Admin will be responsible for assigning students to faculty members and departments.
 Admin can update any information related to existing or new educational courses or study programs. Admin can send notifications or make important announcements to students and faculty members.
+ </p>
+ <p>
 Admin will be responsible for adding, listing, & maintaining the departments.
 Student Module- After registering, students can log in/log out of the system. Students can view educational courses and programs available, attend online classes, view attendance, results, marks, download/upload assignments, download study material, etc.
 Faculty Module- Faculty members can register on the system. After registering, faculty members can log in/log out of the system. Faculty can add classes, schedule timing for classes, etc. Faculty can upload assignments, results, study material, syllabus, etc. Faculty can view/download assignments uploaded by students.
-User roles of Learning Management System
-Admin:
-o	Can log in/log out of the system.
-o	Can View and Add/EDIT/Delete new faculty into the system.
-o	Can View and Add/EDIT/Delete new Students into the system.
-o	Can View and Add/EDIT/Delete new complaints about other faculties and students into the system.
-o	Can View and Add/EDIT/Delete assignments and Subject Notes.
-o	Can View and Add/EDIT/Delete courses and learning programs.
-o	Can manage students and faculty members.
-o	Can send notifications to students and faculty members
-o	Can manage the “MY Profile”.
-o	Can change password.
+ </p>
+**User roles of Learning Management System<br>
+Admin:**
+o	Can log in/log out of the system.<br>
+o	Can View and Add/EDIT/Delete new faculty into the system.<br>
+o	Can View and Add/EDIT/Delete new Students into the system.<br>
+o	Can View and Add/EDIT/Delete new complaints about other faculties and students into the system.<br>
+o	Can View and Add/EDIT/Delete assignments and Subject Notes.<br>
+o	Can View and Add/EDIT/Delete courses and learning programs.<br>
+o	Can manage students and faculty members.<br>
+o	Can send notifications to students and faculty members<br>
+o	Can manage the “MY Profile”.<br>
+o	Can change password.<br>
 
-Students:
-o	Can log in/log out of the system.
-o	Can view faculty.
-o	Can view educational courses and learning programs.
-o	Can view and Add complaints about other faculties and students into the system.
-o	Can view attendance, results, assignments, and Subject Notes.
-o	Can upload assignments.
-o	Can manage the “MY Profile”.
-o	Can change password.
-Faculty:
-o	Can log in/log out of the system.
-o	Can view faculty.
-o	Can view educational courses and learning programs.
-o	Can view and add classes, assignments, results, study materials, etc.
-o	Can view attendance, results, and assignments of students.
-o	Can upload assignments.
-o	Can send important messages to students.
-o	Can manage the “MY Profile”.
-o	Can change password.
+**Students:**
+o	Can log in/log out of the system.<br>
+o	Can view faculty.<br>
+o	Can view educational courses and learning programs.<br>
+o	Can view and Add complaints about other faculties and students into the system.<br>
+o	Can view attendance, results, assignments, and Subject Notes.<br>
+o	Can upload assignments.<br>
+o	Can manage the “MY Profile”.<br>
+o	Can change password.<br>
 
+**Faculty:**
+o	Can log in/log out of the system.<br>
+o	Can view faculty.<br>
+o	Can view educational courses and learning programs.<br>
+o	Can view and add classes, assignments, results, study materials, etc.<br>
+o	Can view attendance, results, and assignments of students.<br>
+o	Can upload assignments.<br>
+o	Can send important messages to students.<br>
+o	Can manage the “MY Profile”.<br>
+o	Can change password.<br>
 
-
-Flow Diagram for Learning Management System
- 
- 
-
- 
- 
-
-Tools and Technologies Used
+**Tools and Technologies Used**
 Technology/Domain: Java
 Front-End: JSP, Html, CSS, JS, Bootstrap.
 Server-side: Servlet.
