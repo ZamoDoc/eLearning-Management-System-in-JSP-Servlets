@@ -1,15 +1,20 @@
 # eLearning-Management-System-in-JSP-Servlets
-Online Learning Management System using Java Servlets
 Online Learning Management System Project using JSP
 
-Learning Management System Overview<br>
+**Learning Management System Overview<br>**
+<p>
 It is a multi-role application i.e. Admin, Students, and Faculty where Admin has the main control over the system.
 Admin will be responsible for maintaining the system and also, keeping a check on faculties and students section whereas, students can access the educational courses and study modules, etc and faculty members can register themselves and manage students and details of courses, learning programs, etc.
-Learning Management System Abstract
+</p>
+**Learning Management System Abstract**<br>
+<p>
 A learning management system allows administration, documentation, tracking, reporting, automation, and delivery of educational courses, training programs, or learning and development programs. It is a complex process as there are hundreds and thousands of students and faculty members to manage, which involves a lot of information that needs to be handled.
 We have designed this system in java to help manage a learning management system from a single place. Where Admin controls the overall system. Admin can Add/Remove/Update any details related to the system. Admin will be responsible for maintaining student & faculty member databases. Admin will be responsible for scheduling classes for students, scheduling timetables, and managing any events, programs, or other activities.
+ </p>
+ <p>
 A student has to register themselves on the portal with their name and id proofs. Students can view educational courses and programs available, for they can register themselves. Students can attend online classes respectively.  Students view attendance, results, marks, etc. Students can download/upload assignments. Also, students can directly be notified of any updates regarding classes, courses, assignments, results, exams, payments, and fees.
 On the other hand, a faculty member can mark the attendance of students directly, and upload the results and marks of each and every student. Faculty can upload assignments, results, study material, syllabus, etc. Faculty can view/download assignments uploaded by students.
+ </p>
 The following are the major objective of this application:
 1.	To provide a bug-free application.
 2.	The main objective is to build a secured, robust Learning Management System.
