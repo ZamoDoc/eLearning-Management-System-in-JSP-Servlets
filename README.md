@@ -20,7 +20,7 @@ The following are the major objective of this application:
 2.	The main objective is to build a secured, robust Learning Management System.
 3.	It maintains the record of students, faculty, courses, attendance, results, subjects, and so on.
  
-**Modules of Learning Management System**<br
+**Modules of Learning Management System**<br>
  <p>
 Admin Module- Admin can register & login/log out of the system. Admin can Add/Remove/Update any details related to the system. Admin will be allowed to add/remove any student and faculty member. Admin will be responsible for maintaining student & faculty member databases. Admin will be responsible for scheduling classes for students, scheduling timetables, and managing any events, programs, or other activities.
 </p>
@@ -34,7 +34,7 @@ Student Module- After registering, students can log in/log out of the system. St
 Faculty Module- Faculty members can register on the system. After registering, faculty members can log in/log out of the system. Faculty can add classes, schedule timing for classes, etc. Faculty can upload assignments, results, study material, syllabus, etc. Faculty can view/download assignments uploaded by students.
  </p>
 **User roles of Learning Management System<br>
-Admin:**
+Admin:**<br>
 o	Can log in/log out of the system.<br>
 o	Can View and Add/EDIT/Delete new faculty into the system.<br>
 o	Can View and Add/EDIT/Delete new Students into the system.<br>
@@ -46,7 +46,7 @@ o	Can send notifications to students and faculty members<br>
 o	Can manage the “MY Profile”.<br>
 o	Can change password.<br>
 
-**Students:**
+**Students:**<br>
 o	Can log in/log out of the system.<br>
 o	Can view faculty.<br>
 o	Can view educational courses and learning programs.<br>
@@ -56,7 +56,7 @@ o	Can upload assignments.<br>
 o	Can manage the “MY Profile”.<br>
 o	Can change password.<br>
 
-**Faculty:**
+**Faculty:**<br>
 o	Can log in/log out of the system.<br>
 o	Can view faculty.<br>
 o	Can view educational courses and learning programs.<br>
@@ -67,7 +67,7 @@ o	Can send important messages to students.<br>
 o	Can manage the “MY Profile”.<br>
 o	Can change password.<br>
 
-**Tools and Technologies Used**
+**Tools and Technologies Used**<br>
 Technology/Domain: Java
 Front-End: JSP, Html, CSS, JS, Bootstrap.
 Server-side: Servlet.
