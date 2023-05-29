@@ -2,7 +2,7 @@
 Online Learning Management System using Java Servlets
 Online Learning Management System Project using JSP
 
-Learning Management System Overview
+Learning Management System Overview<br>
 It is a multi-role application i.e. Admin, Students, and Faculty where Admin has the main control over the system.
 Admin will be responsible for maintaining the system and also, keeping a check on faculties and students section whereas, students can access the educational courses and study modules, etc and faculty members can register themselves and manage students and details of courses, learning programs, etc.
 Learning Management System Abstract
